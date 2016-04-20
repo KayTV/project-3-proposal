@@ -10,7 +10,7 @@
 
 <h3>Technologies</h3>
   <ul>
-    <li>Phasher.io</li>
+    <li>Phaser.io</li>
     <li>AngularJS</li>
     <li>Canvas</li>
     <li>Web GL</li>
